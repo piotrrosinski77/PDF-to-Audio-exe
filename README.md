@@ -1,6 +1,6 @@
 # PDF-to-Audio-exe
 
-PDF-to-Audio-exe is a simple Python application that converts text from PDF files into audio files (MP3) using text-to-speech synthesis. This project leverages the `PyPDF2` library for PDF handling and `pyttsx3` for text-to-speech conversion, all packaged into a standalone executable using `PyInstaller`.
+PDF-to-Audio-exe is a Python-based application designed to convert text from PDF files into MP3 audio files using text-to-speech (TTS) synthesis. This application can be used to listen to your PDFs, whether they are books, documents, or articles, by converting them into audio format. The project uses the PyPDF2 library for handling PDF files and pyttsx3 for offline TTS conversion. It’s packaged as a standalone executable with PyInstaller for ease of use.
 
 <div align="center">
     <img src="images/screenshot.png" alt="Application Screenshot 1" width="200" style="display: inline-block;"/>
