@@ -33,10 +33,9 @@ Alternatively, manually install the following:
 - moviepy (for handling video and audio processing)
 - pyttsx3 (for text-to-speech conversion)
 - PyPDF2 (for reading PDF files)
-- ffmpeg (ensure it's installed and available in your system's PATH for video/audio conversion)
 
-**FFmpeg**
-   - Download and install [FFmpeg](https://ffmpeg.org/download.html) for converting videos and extracting audio.
+3. **FFmpeg**
+   - Download and install [FFmpeg](https://ffmpeg.org/download.html) for converting videos and extracting audio (ensure it's installed and available in your system's PATH for video/audio conversion).
 
 ## Installation
 
