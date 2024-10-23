@@ -27,9 +27,6 @@ To build and run the project from source or make any modifications, you'll need 
      ```
 
 Alternatively, manually install the following:
-- pytube
-- tkinter (for the GUI)
-- moviepy (for handling video and audio processing)
 - pyttsx3 (for text-to-speech conversion)
 - PyPDF2 (for reading PDF files)
 
