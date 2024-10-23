@@ -26,10 +26,16 @@ To build and run the project from source or make any modifications, you'll need 
      pip install -r requirements.txt
      ```
 
-   Or manually install the following:
-   - `ffmpeg` (ensure it's installed and available in your system's PATH for video/audio conversion)
+Alternatively, manually install the following:
 
-3. **FFmpeg**
+- pytube (for downloading videos from YouTube)
+- tkinter (for the GUI)
+- moviepy (for handling video and audio processing)
+- pyttsx3 (for text-to-speech conversion)
+- PyPDF2 (for reading PDF files)
+- ffmpeg (ensure it's installed and available in your system's PATH for video/audio conversion)
+
+**FFmpeg**
    - Download and install [FFmpeg](https://ffmpeg.org/download.html) for converting videos and extracting audio.
 
 ## Installation
